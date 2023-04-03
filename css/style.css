@@ -1,0 +1,81 @@
+body{
+    background-color:   #fff2e8;
+}
+h1{
+    text-align: center;
+    color: #d2691e;
+    font-family: 'Josefin Sans';
+    font-size: 50px;
+ 
+}
+h2{
+    text-decoration: underline;
+}
+hr{
+    width: 1500px;
+    height:2px;
+    background-color:rgb(214, 214, 214);
+}
+hr{
+    width: 1500px;px;
+    height:2px;
+    background-color:rgb(0, 0, 0);
+}
+img{
+   
+    height: 350px;
+    width: 350px;
+}
+p{
+    font-size: 15px;
+    font-family: 'Josefin Sans';
+    text-transform: capitalize;
+    color: chocolate;
+    text-align: justify;
+    text-transform: capitalize;
+}
+
+dl{
+     font-size: 15px;
+     font-family: 'remixicon';
+    font-family: 'Josefin Sans';
+    text-transform: capitalize;
+    color: chocolate;
+   
+}
+.paragraph{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Josefin Sans';
+    text-transform: capitalize;
+    color: rgb(0, 0, 0);
+    
+}
+dl{
+    font-size: 15px;
+    font-family: 'Slabo 27px', serif;
+   text-transform: capitalize;
+   color: chocolate;
+}
+p{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Josefin Sans';
+    text-transform: capitalize;
+    color: rgb(0, 0, 0);
+}
+dl{
+    font-size: 15px;
+    font-family: 'Slabo 27px', serif;
+   text-transform: capitalize;
+   color: chocolate;
+}
+i{
+    color: rgb(87, 49, 0);
+    font-size: 45PX;
+    letter-spacing: 35PX;
+}
+h2 i{
+    font-size: 25px;
+    letter-spacing: 8PX;
+    color: chocolate;
+    
+}
